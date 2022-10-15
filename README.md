@@ -33,7 +33,7 @@ KELAS : TI.22.B1
 
 8. Lalu kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remmote repository, yang akan di gunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
 
-<img width="960" alt="2022-10-15 (7 2)" src="https://user-images.githubusercontent.com/115475348/195968719-cde23733-1483-4a82-8b82-584a674db412.png">
+<img width="960" alt="2022-10-15 (7)" src="https://user-images.githubusercontent.com/115475348/195968976-1772c519-2b7b-4d6d-b74b-a1e08149e447.png">
 
 9. Lalu liat hasil pada server repository tersebut
 
@@ -41,5 +41,7 @@ KELAS : TI.22.B1
 
 10. Untuk menyalakan repository server gunakan perintah "git clone (URL)"
 
-<img width="960" alt="2022-10-15 (9)" src="https://user-images.githubusercontent.com/115475348/195968840-839dabbe-0cad-470f-b81f-55b706034b64.png">
+<img width="960" alt="2022-10-15 (9 2)" src="https://user-images.githubusercontent.com/115475348/195968958-e7bee41a-c294-410b-aea4-dc1404c90f24.png">
 
+Seperti itulah langkah-langkah dalam mambuat GIT dan github, sekian dari saya mohon maaf bila ada kesalahan. 
+Terima Kasih
