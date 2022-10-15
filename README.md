@@ -44,4 +44,6 @@ KELAS : TI.22.B1
 <img width="960" alt="2022-10-15 (9 2)" src="https://user-images.githubusercontent.com/115475348/195968958-e7bee41a-c294-410b-aea4-dc1404c90f24.png">
 
 Seperti itulah langkah-langkah dalam mambuat GIT dan github, sekian dari saya mohon maaf bila ada kesalahan. 
+
+
 Terima Kasih
