@@ -53,7 +53,8 @@ Berikut ini adalah langkah-langkah dalam membuat GIT dan github:
 
 7. Buatlah akun Github. Kemudian buat repository baru dengan mengisi nama repository di "Start a new repository" atau klik ikon (+) lalu pilih new repository.
 
-<img width="960" alt="2022-10-15 (6 2)" src="https://user-images.githubusercontent.com/115475348/195968602-e65c964f-b975-4dab-8fdf-714a20422fed.png">
+<img width="960" alt="2022-10-17" src="https://user-images.githubusercontent.com/115475348/196097639-4f3b4437-e48a-45a5-bcf1-79abe0367527.png">
+
 
 8. Lalu kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remmote repository, yang akan di gunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
 
